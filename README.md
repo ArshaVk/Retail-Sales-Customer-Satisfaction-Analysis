@@ -1,4 +1,4 @@
-Retail Sales Customer Satisfaction Analysis
+#Retail Sales Customer Satisfaction Analysis
 This project analyses retail sales data, focusing on customer satisfaction, sales trends, and forecasting.  The dataset contains sales and customer feedback information, including purchase amounts, product categories, return rates, and payment methods. The goal is to understand the dynamics of sales, identify factors that impact customer satisfaction, and forecast purchase amounts for future years. Excel was used for data cleaning, while Power BI was employed for analysis, visualization, and forecasting.
 
 Tools Used
